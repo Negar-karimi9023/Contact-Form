@@ -1,3 +1,16 @@
-body {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   font-family: sans-serif;
+}
+:root {
+  --primary-color: #4ade80;
+  --primary-dark: #22c55e;
+  --bg-dark: #1a1a1a;
+  --text-light: #f3f4f6;
+  --text-gray: #333;
+  --card-bg: #252525;
+  --input-bg: ;
+  --border-radius: 10px;
 }
